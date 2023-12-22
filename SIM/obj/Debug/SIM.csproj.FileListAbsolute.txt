@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\SIM\SIM\bin\Debug\SIM.exe.config
+C:\Users\Admin\source\repos\SIM\SIM\bin\Debug\SIM.exe
+C:\Users\Admin\source\repos\SIM\SIM\bin\Debug\SIM.pdb
+C:\Users\Admin\source\repos\SIM\SIM\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\source\repos\SIM\SIM\obj\Debug\SIM.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\SIM\SIM\obj\Debug\SIM.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\SIM\SIM\obj\Debug\SIM.Properties.DefaultSave.resources
+C:\Users\Admin\source\repos\SIM\SIM\obj\Debug\SIM.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\SIM\SIM\obj\Debug\SIM.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SIM\SIM\obj\Debug\SIM.csproj.CopyComplete
+C:\Users\Admin\source\repos\SIM\SIM\obj\Debug\SIM.exe
+C:\Users\Admin\source\repos\SIM\SIM\obj\Debug\SIM.pdb
+C:\Users\Admin\source\repos\SIM\SIM\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Admin\source\repos\SIM\SIM\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Admin\source\repos\SIM\SIM\obj\Debug\SIM.csproj.Fody.CopyLocal.cache
